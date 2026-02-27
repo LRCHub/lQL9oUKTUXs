@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒナ（feat. 可不、初音ミク）",
+  "base_artist": "yanagamiyuki",
+  "createdAt": "2026-02-27T14:34:33.404429Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒナ (feat. 可不 & 初音ミク)",
+      "artist": "yanagamiyuki",
+      "has_synced": false,
+      "path": "select/pl_01_ヒナ_(feat._可不_&_初音ミク)_yanagamiyuki.txt"
+    }
+  ]
+}
